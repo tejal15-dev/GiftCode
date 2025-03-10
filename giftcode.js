@@ -1,4 +1,3 @@
-
 // Function to save the gift code in Local Storage (Accessible to All Users)
 function saveGiftCode() {
     var code = document.getElementById("giftCodeInput").value.trim();
